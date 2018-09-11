@@ -1,0 +1,3131 @@
+qaeMemInit started
+icp_sal_userStartMultiProcess("SSL") started
+*** QA version information ***
+device ID		= 0
+software 		= 4.2.0
+*** END QA version information ***
+*** QA version information ***
+device ID		= 1
+software 		= 4.2.0
+*** END QA version information ***
+*** QA version information ***
+device ID		= 2
+software 		= 4.2.0
+*** END QA version information ***
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES128-CBC
+API                   Traditional
+Packet Size           64
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES128-CBC
+API                   Traditional
+Packet Size           128
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES128-CBC
+API                   Traditional
+Packet Size           256
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES128-CBC
+API                   Traditional
+Packet Size           512
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES128-CBC
+API                   Traditional
+Packet Size           1024
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES128-CBC
+API                   Traditional
+Packet Size           2048
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES128-CBC
+API                   Traditional
+Packet Size           4096
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES128-CBC
+API                   Traditional
+Packet Mix        40%-64B 20%-752B 35% 1504B 5%-8892B
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES256-CBC
+API                   Traditional
+Packet Size           64
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES256-CBC
+API                   Traditional
+Packet Size           128
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES256-CBC
+API                   Traditional
+Packet Size           256
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES256-CBC
+API                   Traditional
+Packet Size           512
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES256-CBC
+API                   Traditional
+Packet Size           1024
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES256-CBC
+API                   Traditional
+Packet Size           2048
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES256-CBC
+API                   Traditional
+Packet Size           4096
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES256-CBC
+API                   Traditional
+Packet Mix        40%-64B 20%-752B 35% 1504B 5%-8892B
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt KASUMI_F8
+API                   Traditional
+Packet Size           40
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt KASUMI_F8
+API                   Traditional
+Packet Size           64
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt KASUMI_F8
+API                   Traditional
+Packet Size           256
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt KASUMI_F8
+API                   Traditional
+Packet Size           320
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt KASUMI_F8
+API                   Traditional
+Packet Size           512
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt KASUMI_F8
+API                   Traditional
+Packet Size           1024
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES128-CBC HMAC-SHA1
+API                   Traditional
+Packet Size           64
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES128-CBC HMAC-SHA1
+API                   Traditional
+Packet Size           128
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES128-CBC HMAC-SHA1
+API                   Traditional
+Packet Size           256
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES128-CBC HMAC-SHA1
+API                   Traditional
+Packet Size           512
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES128-CBC HMAC-SHA1
+API                   Traditional
+Packet Size           1024
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES128-CBC HMAC-SHA1
+API                   Traditional
+Packet Size           2048
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES128-CBC HMAC-SHA1
+API                   Traditional
+Packet Size           4096
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES128-CBC HMAC-SHA1
+API                   Traditional
+Packet Mix        40%-64B 20%-752B 35% 1504B 5%-8892B
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC HMAC-SHA2-512
+API                   Traditional
+Packet Size           64
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC HMAC-SHA2-512
+API                   Traditional
+Packet Size           128
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC HMAC-SHA2-512
+API                   Traditional
+Packet Size           256
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC HMAC-SHA2-512
+API                   Traditional
+Packet Size           512
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC HMAC-SHA2-512
+API                   Traditional
+Packet Size           1024
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC HMAC-SHA2-512
+API                   Traditional
+Packet Size           2048
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC HMAC-SHA2-512
+API                   Traditional
+Packet Size           4096
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC HMAC-SHA2-512
+API                   Traditional
+Packet Mix        40%-64B 20%-752B 35% 1504B 5%-8892B
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC AES-XCBC
+API                   Traditional
+Packet Size           64
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC AES-XCBC
+API                   Traditional
+Packet Size           128
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC AES-XCBC
+API                   Traditional
+Packet Size           256
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC AES-XCBC
+API                   Traditional
+Packet Size           512
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC AES-XCBC
+API                   Traditional
+Packet Size           1024
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC AES-XCBC
+API                   Traditional
+Packet Size           2048
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC AES-XCBC
+API                   Traditional
+Packet Size           4096
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC AES-XCBC
+API                   Traditional
+Packet Mix        40%-64B 20%-752B 35% 1504B 5%-8892B
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES128-CBC
+API                   Data_Plane
+Packet Size           64
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES128-CBC
+API                   Data_Plane
+Packet Size           128
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES128-CBC
+API                   Data_Plane
+Packet Size           256
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES128-CBC
+API                   Data_Plane
+Packet Size           512
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES128-CBC
+API                   Data_Plane
+Packet Size           1024
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES128-CBC
+API                   Data_Plane
+Packet Size           2048
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES128-CBC
+API                   Data_Plane
+Packet Size           4096
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES128-CBC
+API                   Data_Plane
+Packet Mix        40%-64B 20%-752B 35% 1504B 5%-8892B
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES256-CBC
+API                   Data_Plane
+Packet Size           64
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES256-CBC
+API                   Data_Plane
+Packet Size           128
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES256-CBC
+API                   Data_Plane
+Packet Size           256
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES256-CBC
+API                   Data_Plane
+Packet Size           512
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES256-CBC
+API                   Data_Plane
+Packet Size           1024
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES256-CBC
+API                   Data_Plane
+Packet Size           2048
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES256-CBC
+API                   Data_Plane
+Packet Size           4096
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt AES256-CBC
+API                   Data_Plane
+Packet Mix        40%-64B 20%-752B 35% 1504B 5%-8892B
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt KASUMI_F8
+API                   Data_Plane
+Packet Size           40
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt KASUMI_F8
+API                   Data_Plane
+Packet Size           64
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt KASUMI_F8
+API                   Data_Plane
+Packet Size           256
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt KASUMI_F8
+API                   Data_Plane
+Packet Size           320
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt KASUMI_F8
+API                   Data_Plane
+Packet Size           512
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Cipher Encrypt KASUMI_F8
+API                   Data_Plane
+Packet Size           1024
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES128-CBC HMAC-SHA1
+API                   Data_Plane
+Packet Size           64
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES128-CBC HMAC-SHA1
+API                   Data_Plane
+Packet Size           128
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES128-CBC HMAC-SHA1
+API                   Data_Plane
+Packet Size           256
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES128-CBC HMAC-SHA1
+API                   Data_Plane
+Packet Size           512
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES128-CBC HMAC-SHA1
+API                   Data_Plane
+Packet Size           1024
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES128-CBC HMAC-SHA1
+API                   Data_Plane
+Packet Size           2048
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES128-CBC HMAC-SHA1
+API                   Data_Plane
+Packet Size           4096
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES128-CBC HMAC-SHA1
+API                   Data_Plane
+Packet Mix        40%-64B 20%-752B 35% 1504B 5%-8892B
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC HMAC-SHA2-512
+API                   Data_Plane
+Packet Size           64
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC HMAC-SHA2-512
+API                   Data_Plane
+Packet Size           128
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC HMAC-SHA2-512
+API                   Data_Plane
+Packet Size           256
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC HMAC-SHA2-512
+API                   Data_Plane
+Packet Size           512
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC HMAC-SHA2-512
+API                   Data_Plane
+Packet Size           1024
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC HMAC-SHA2-512
+API                   Data_Plane
+Packet Size           2048
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC HMAC-SHA2-512
+API                   Data_Plane
+Packet Size           4096
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC HMAC-SHA2-512
+API                   Data_Plane
+Packet Mix        40%-64B 20%-752B 35% 1504B 5%-8892B
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC AES-XCBC
+API                   Data_Plane
+Packet Size           64
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC AES-XCBC
+API                   Data_Plane
+Packet Size           128
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC AES-XCBC
+API                   Data_Plane
+Packet Size           256
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC AES-XCBC
+API                   Data_Plane
+Packet Size           512
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC AES-XCBC
+API                   Data_Plane
+Packet Size           1024
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC AES-XCBC
+API                   Data_Plane
+Packet Size           2048
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC AES-XCBC
+API                   Data_Plane
+Packet Size           4096
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+Algorithm Chaining - AES256-CBC AES-XCBC
+API                   Data_Plane
+Packet Mix        40%-64B 20%-752B 35% 1504B 5%-8892B
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+RSA CRT DECRYPT
+Modulus Size                1024
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+DIFFIE-HELLMAN PHASE 2
+Modulus Size              2048
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+DSA VERIFY
+Modulus Size                1024
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 3, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 4, Affin: 5, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 5, Affin: 6, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 6, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 7, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 8, Affin: 11, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 9, Affin: 12, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 10, Affin: 13, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 11, Affin: 14, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 12, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 13, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 14, Affin: 19, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 15, Affin: 20, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 16, Affin: 21, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 17, Affin: 22, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+ECDSA VERIFY
+EC Size                     384
+Number of Threads     18
+Total Submissions     360
+Total Responses       360
+Total Retries         0
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 3, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 4, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 5, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+CNV Enabled            YES
+Direction              COMPRESS
+Packet Size            8192
+Compression Level      1
+Corpus                 SIGN_OF_LIFE_CORPUS
+Corpus Filename        calgary32
+CNV Recovery Enabled   YES
+Number of threads      6
+Total Responses        24
+Total Retries          0
+Clock Cycles Start     12254782819721926
+Clock Cycles End       12254782820027854
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 3, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 4, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 5, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            8192
+Compression Level      1
+Corpus                 SIGN_OF_LIFE_CORPUS
+Corpus Filename        calgary32
+CNV Recovery Enabled   YES
+Number of threads      6
+Total Responses        24
+Total Retries          0
+Clock Cycles Start     12254785128495374
+Clock Cycles End       12254785128747166
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 3, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 4, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 5, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+CNV Enabled            YES
+Direction              COMPRESS
+Packet Size            8192
+Compression Level      2
+Corpus                 SIGN_OF_LIFE_CORPUS
+Corpus Filename        calgary32
+CNV Recovery Enabled   YES
+Number of threads      6
+Total Responses        24
+Total Retries          0
+Clock Cycles Start     12254787421177408
+Clock Cycles End       12254787421492612
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 3, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 4, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 5, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            8192
+Compression Level      2
+Corpus                 SIGN_OF_LIFE_CORPUS
+Corpus Filename        calgary32
+CNV Recovery Enabled   YES
+Number of threads      6
+Total Responses        24
+Total Retries          0
+Clock Cycles Start     12254789730883288
+Clock Cycles End       12254789731143024
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 3, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 4, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 5, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+CNV Enabled            YES
+Direction              COMPRESS
+Packet Size            8192
+Compression Level      1
+Corpus                 SIGN_OF_LIFE_CORPUS
+Corpus Filename        calgary32
+CNV Recovery Enabled   YES
+Number of threads      6
+Total Responses        24
+Total Retries          0
+Clock Cycles Start     12254792024004224
+Clock Cycles End       12254792024366934
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 3, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 4, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 5, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            8192
+Compression Level      1
+Corpus                 SIGN_OF_LIFE_CORPUS
+Corpus Filename        calgary32
+CNV Recovery Enabled   YES
+Number of threads      6
+Total Responses        24
+Total Retries          0
+Clock Cycles Start     12254794332715398
+Clock Cycles End       12254794332939480
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 3, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 4, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 5, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+CNV Enabled            YES
+Direction              COMPRESS
+Packet Size            8192
+Compression Level      2
+Corpus                 SIGN_OF_LIFE_CORPUS
+Corpus Filename        calgary32
+CNV Recovery Enabled   YES
+Number of threads      6
+Total Responses        24
+Total Retries          0
+Clock Cycles Start     12254796625651176
+Clock Cycles End       12254796626040520
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 3, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 4, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 5, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            8192
+Compression Level      2
+Corpus                 SIGN_OF_LIFE_CORPUS
+Corpus Filename        calgary32
+CNV Recovery Enabled   YES
+Number of threads      6
+Total Responses        24
+Total Retries          0
+Clock Cycles Start     12254798935151174
+Clock Cycles End       12254798935387136
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 3, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 4, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 5, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS(from zLib compressed data
+Packet Size            32768
+Compression Level      1
+Corpus                 SIGN_OF_LIFE_CORPUS
+Corpus Filename        calgary32
+CNV Recovery Enabled   YES
+Number of threads      6
+Total Responses        6
+Total Retries          0
+Clock Cycles Start     12254801236640176
+Clock Cycles End       12254801236970662
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 3, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 4, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 5, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+CNV Enabled            YES
+Direction              COMPRESS
+Packet Size            8192
+Compression Level      1
+Corpus                 SIGN_OF_LIFE_CORPUS
+Corpus Filename        calgary32
+CNV Recovery Enabled   YES
+Number of threads      6
+Total Responses        24
+Total Retries          228
+Clock Cycles Start     12254803535499440
+Clock Cycles End       12254803535685438
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 3, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 4, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 5, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            8192
+Compression Level      1
+Corpus                 SIGN_OF_LIFE_CORPUS
+Corpus Filename        calgary32
+CNV Recovery Enabled   YES
+Number of threads      6
+Total Responses        24
+Total Retries          113
+Clock Cycles Start     12254805864191450
+Clock Cycles End       12254805864333170
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 3, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 4, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 5, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+CNV Enabled            YES
+Direction              COMPRESS
+Packet Size            8192
+Compression Level      2
+Corpus                 SIGN_OF_LIFE_CORPUS
+Corpus Filename        calgary32
+CNV Recovery Enabled   YES
+Number of threads      6
+Total Responses        24
+Total Retries          255
+Clock Cycles Start     12254808189648460
+Clock Cycles End       12254808189896386
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 3, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 4, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 5, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            8192
+Compression Level      2
+Corpus                 SIGN_OF_LIFE_CORPUS
+Corpus Filename        calgary32
+CNV Recovery Enabled   YES
+Number of threads      6
+Total Responses        24
+Total Retries          110
+Clock Cycles Start     12254810513658712
+Clock Cycles End       12254810513794326
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 3, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 4, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 5, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+CNV Enabled            YES
+Direction              COMPRESS
+Packet Size            8192
+Compression Level      1
+Corpus                 SIGN_OF_LIFE_CORPUS
+Corpus Filename        calgary32
+CNV Recovery Enabled   YES
+Number of threads      6
+Total Responses        24
+Total Retries          274
+Clock Cycles Start     12254812836654612
+Clock Cycles End       12254812836862860
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 3, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 4, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 5, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            8192
+Compression Level      1
+Corpus                 SIGN_OF_LIFE_CORPUS
+Corpus Filename        calgary32
+CNV Recovery Enabled   YES
+Number of threads      6
+Total Responses        24
+Total Retries          118
+Clock Cycles Start     12254815169441018
+Clock Cycles End       12254815169579472
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 3, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 4, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 5, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+CNV Enabled            YES
+Direction              COMPRESS
+Packet Size            8192
+Compression Level      2
+Corpus                 SIGN_OF_LIFE_CORPUS
+Corpus Filename        calgary32
+CNV Recovery Enabled   YES
+Number of threads      6
+Total Responses        24
+Total Retries          405
+Clock Cycles Start     12254817497826250
+Clock Cycles End       12254817498076704
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 1, Affin: 2, Dev: 0, Accel 0, EE 0, BDF 3D:00:00
+Inst 2, Affin: 9, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 3, Affin: 10, Dev: 1, Accel 0, EE 0, BDF 3F:00:00
+Inst 4, Affin: 17, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+Inst 5, Affin: 18, Dev: 2, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+API                    Data_Plane
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            8192
+Compression Level      2
+Corpus                 SIGN_OF_LIFE_CORPUS
+Corpus Filename        calgary32
+CNV Recovery Enabled   YES
+Number of threads      6
+Total Responses        24
+Total Retries          117
+Clock Cycles Start     12254819824278868
+Clock Cycles End       12254819824421772
+---------------------------------------
+
